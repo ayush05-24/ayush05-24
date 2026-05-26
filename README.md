@@ -42,6 +42,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush05-24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ayush05-24/ayush05-24/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush05-24&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
 
