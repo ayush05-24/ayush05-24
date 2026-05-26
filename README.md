@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm **Ayush Ranjan**
+![Header](./Github_header_banner.png)
 
 ### 🎓 B.Tech EEE @ VIT Vellore  
-### 🧑‍💻  Software Engineer | 📐 Full-Stack Developer | 🌐 Tech Explorer  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+Learning+New+Tech!" />
 
