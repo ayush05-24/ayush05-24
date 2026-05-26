@@ -33,14 +33,10 @@
 ---
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,ts,java,python,react,next,nodejs,express,flask,django,fastapi,tailwind,mongodb,mysql,postgres,sqlite,redis,supabase,aws,jenkins,kubernetes,git,github,githubactions,vercel,render,postman,tensorflow,pytorch,sklearn,pandas,numpy,vite" />
-# 📊 GitHub Stats:
+<img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,ts,java,python,react,next,nodejs,express,flask,django,fastapi,tailwind,mongodb,mysql,postgres,sqlite,redis,supabase,aws,jenkins,kubernetes,git,github,githubactions,vercel,postman,tensorflow,pytorch,sklearn,vite" />
 
-![](https://github-readme-stats.vercel.app/api?username=ayush05-24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ayush05-24&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush05-24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
 
