@@ -16,25 +16,25 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-ranjan-839858253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <p align="center">
-  <a href="mailto:ayushranjan014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-  <a href="https://leetcode.com/ayushranjan014/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/ayushranbtg2/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-008000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/ayush-ranjan-839858253/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ayushranjan014@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/ayushranjan014/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/ayushranbtg2/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-008000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</div>
 ---
 
 # 💻 Tech Stack:
